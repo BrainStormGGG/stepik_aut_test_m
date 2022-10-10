@@ -1,0 +1,15 @@
+1665264680975	geckodriver	INFO	Listening on 127.0.0.1:64038
+1665264684076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Finch\\AppData\\Local\\Temp\\rust_mozprofilezuuNnb"
+1665264684582	Marionette	INFO	Marionette enabled
+1665264684591	Marionette	INFO	Listening on port 64057
+Read port: 64057
+WebDriver BiDi listening on ws://127.0.0.1:64039
+1665264684731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Finch\\AppData\\Local\\Temp\\rust_mozprofilezuuNnb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64039/devtools/browser/e6827be3-b803-4ed1-adea-656ac9447a67
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1665264689965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-Y38d37a1DmvdXzRnIUkD6jTpQ2urOaWudC6FG_jR1g.js line 2 > eval line 1477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665264698292	Marionette	INFO	Stopped listening on port 64057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
